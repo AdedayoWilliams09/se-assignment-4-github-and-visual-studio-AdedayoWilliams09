@@ -86,7 +86,6 @@ What is a pull request in GitHub, and how does it facilitate code reviews and co
 
 
 Answers:
-
 A pull request (PR) in GitHub is a way to propose changes to a repository. It lets others review your code before it’s merged into the main branch, facilitating collaboration and ensuring code quality.
 
 Creating a Pull Request
